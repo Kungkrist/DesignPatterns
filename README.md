@@ -1,13 +1,19 @@
 # DesignPatterns
 ## Composite Design Pattern
 ### Uses:
-1. Use the Composite pattern when:
+Use the Composite pattern when:
 ⋅⋅* You want to represent part-whole hierarchies of objects.
 ⋅⋅* You want clients to be able to ignore the difference between compositions of objects and individual objects. Clients will treat all objects in the composite structure uniformly.
 [Click here for more info about the Composite Design Pattern.](https://github.com/Kungkrist/DesignPatterns/tree/master/Composite%20Design%20Pattern)
 
 ## Factory Design Pattern
 ### Uses:
+1. First ordered list item
+2. Another item
+⋅⋅* Unordered sub-list. 
+1. Actual numbers don't matter, just that it's a number
+⋅⋅1. Ordered sub-list
+4. And another item.
 
 [Click here for more info about the Factory Design Pattern.](https://github.com/Kungkrist/DesignPatterns/tree/master/Factory%20Design%20Pattern)
 
