@@ -5,7 +5,11 @@
  */
 public class VeggiePizza extends Pizza{
 	
-	@Override
+	/*
+	 * Because this pizza does not contain any meat, return false.
+	 * (non-Javadoc)
+	 * @see Pizza#hasMeat()
+	 */
 	public boolean hasMeat() {
 		return false;
 	}
