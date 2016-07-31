@@ -1,8 +1,14 @@
 # DesignPatterns
 ## Composite Design Pattern
+### Uses:
+Use the Composite pattern when: 
+..* You want to represent part-whole hierarchies of objects.
+..* You want clients to be able to ignore the difference between compositions of objects and individual objects. Clients will treat all objects in the composite structure uniformly.
 [Click here for more info about the Composite Design Pattern.](https://github.com/Kungkrist/DesignPatterns/tree/master/Composite%20Design%20Pattern)
 
 ## Factory Design Pattern
+### Uses:
+
 [Click here for more info about the Factory Design Pattern.](https://github.com/Kungkrist/DesignPatterns/tree/master/Factory%20Design%20Pattern)
 
 ## Iterator Design Pattern
