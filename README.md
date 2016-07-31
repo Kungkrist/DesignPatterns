@@ -1,9 +1,11 @@
 # DesignPatterns
 ## Composite Design Pattern
 ### Uses:
-Use the Composite pattern when:
- * You want to represent part-whole hierarchies of objects.
- * You want clients to be able to ignore the difference between compositions of objects and individual objects. Clients will treat all objects in the composite structure uniformly.
+Composite pattern is used where we need to treat a group of objects in similar way as a single object. Composite pattern composes objects in term of a tree structure to represent part as well as whole hierarchy. This type of design pattern comes under structural pattern as this pattern creates a tree structure of group of objects.
+
+This pattern creates a class that contains group of its own objects. This class provides ways to modify its group of same objects.
+
+We are demonstrating use of composite pattern via following example in which we will show employees hierarchy of an organization.
 
 [Click here for more info about the Composite Design Pattern.](https://github.com/Kungkrist/DesignPatterns/tree/master/Composite%20Design%20Pattern)
 
