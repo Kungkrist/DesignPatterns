@@ -51,3 +51,10 @@ In Strategy pattern, we create objects which represent various strategies and a 
 In Template pattern, an abstract class exposes defined way(s)/template(s) to execute its methods. Its subclasses can override the method implementation as per need but the invocation is to be in the same way as defined by an abstract class. This pattern comes under behavior pattern category.
 
 [Click here for more info about the Template Method Design Pattern.](https://github.com/Kungkrist/DesignPatterns/tree/master/Template%20Method%20Design%20Pattern)
+
+## Adapter Design Pattern
+### Uses:
+Adapter pattern works as a bridge between two incompatible interfaces. This type of design pattern comes under structural pattern as this pattern combines the capability of two independent interfaces.
+
+This pattern involves a single class which is responsible to join functionalities of independent or incompatible interfaces. A real life example could be a case of card reader which acts as an adapter between memory card and a laptop. You plugin the memory card into card reader and card reader into the laptop so that memory card can be read via laptop.
+[Click here for more info about the Template Method Design Pattern.](https://github.com/Kungkrist/DesignPatterns/tree/master/Template%20Method%20Design%20Pattern)
