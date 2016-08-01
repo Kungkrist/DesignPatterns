@@ -28,6 +28,7 @@ Iterator pattern falls under behavioral pattern category.
 ## Observer Design Pattern
 ### Uses:
 Observer pattern is used when there is one-to-many relationship between objects such as if one object is modified, its depenedent objects are to be notified automatically. Observer pattern falls under behavioral pattern category.
+
 [Click here for more info about the Observer Design Pattern.](https://github.com/Kungkrist/DesignPatterns/tree/master/Observer%20Design%20Pattern)
 
 ## Proxy Design Pattern
@@ -57,4 +58,5 @@ In Template pattern, an abstract class exposes defined way(s)/template(s) to exe
 Adapter pattern works as a bridge between two incompatible interfaces. This type of design pattern comes under structural pattern as this pattern combines the capability of two independent interfaces.
 
 This pattern involves a single class which is responsible to join functionalities of independent or incompatible interfaces. A real life example could be a case of card reader which acts as an adapter between memory card and a laptop. You plugin the memory card into card reader and card reader into the laptop so that memory card can be read via laptop.
+
 [Click here for more info about the Adapter Design Pattern.](https://github.com/Kungkrist/DesignPatterns/tree/master/Adapter%20Design%20Pattern)
